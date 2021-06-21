@@ -1,0 +1,16 @@
+{
+  "notes": [
+    {
+      "title": "Creating notes",
+      "details": "This is the note",
+      "category": "todos",
+      "id": 1
+    },
+    {
+      "title": "This is work",
+      "details": "Do frontend development using react with typescript and graphql also use NextJs which is really really cool if possible GatsBy too",
+      "category": "reminders",
+      "id": 2
+    }
+  ]
+}
